@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.RepositoryTests\\ToDoApp.RepositoryTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\TodoApp.Models\\ToDoApp.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\TodoApp.Models\\ToDoApp.DTO.csproj",
+        "projectName": "ToDoApp.DTO",
+        "projectPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\TodoApp.Models\\ToDoApp.DTO.csproj",
+        "packagesPath": "C:\\Users\\sarathchandra.b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\TodoApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarathchandra.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.RepositoryTests\\ToDoApp.RepositoryTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.RepositoryTests\\ToDoApp.RepositoryTests.csproj",
+        "projectName": "ToDoApp.RepositoryTests",
+        "projectPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.RepositoryTests\\ToDoApp.RepositoryTests.csproj",
+        "packagesPath": "C:\\Users\\sarathchandra.b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.RepositoryTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarathchandra.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\TodoApp.Models\\ToDoApp.DTO.csproj": {
+                "projectPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\TodoApp.Models\\ToDoApp.DTO.csproj"
+              },
+              "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\ToDoApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\ToDoApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\ToDoApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\ToDoApp.Repository.csproj",
+        "projectName": "ToDoApp.Repository",
+        "projectPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\ToDoApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\sarathchandra.b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarathchandra.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

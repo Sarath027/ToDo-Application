@@ -1,0 +1,7 @@
+<div class="dropdown-container" >
+    <select class="dropdown" (change)="onChange($event)" [(ngModel)]="component">
+        <option value="Dashboard" [hidden]="'Dashboard'===component">Dashboard</option>
+        <option value="Active" [hidden]="'Active'===component">Active</option>
+        <option value="Completed" [hidden]="'Completed'===component">Completed</option>
+    </select>
+</div>

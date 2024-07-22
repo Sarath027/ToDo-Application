@@ -1,0 +1,12 @@
+.dropdown{
+    background-color: #EDB046;
+    margin : 0% 5%;
+    width: 90%;
+    height: 30px;
+    border-radius: 6px;
+}
+
+option {
+    background-color: white;
+  }
+  

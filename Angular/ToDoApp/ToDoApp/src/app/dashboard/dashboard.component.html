@@ -1,0 +1,51 @@
+<div class="dashboard">
+    <div class="dashboard-greeting">
+        <div class="greeting-container">
+            <h1><span class="greeting-header">Hello, Beautiful Human !</span></h1>
+            <p class="greeting-content-container"><span class="greeting-content">What do you want to do today ?</span></p>
+        </div>
+        <div>
+            <img src="assets/woman-laptop.png" class="woman-laptop">
+        </div>
+    </div>
+
+    <div class="today-tasks">
+        <h3>Today's Tasks</h3>
+        <div class="today-tasks-header">
+            <div class="delete-all" (click)="deleteAllTasks()">Delete All</div>
+            <div class="current-date">{{currentDate | date : 'EEEE, d MMMM yyyy'}}</div>
+        </div>
+    </div>
+    <div class="todays-task-status">
+        <div class="tasks-list">
+            <div class="no-tasks-left" *ngIf="!isTaskAvaliable"><h2>No tasks available at the moment</h2></div>
+            <div *ngFor="let task of allTasks; let i = index" class="task" [ngClass]="{'task-completed':isTaskSelected[i]}">
+                <img src="assets/checkbox.png" class="task-checkbox" *ngIf="!isTaskSelected[i]">
+                <img src="assets/checkbox-selected.png" class="task-checkbox" *ngIf="isTaskSelected[i]">
+                <span>{{task.title}}</span>
+            </div>
+        </div>
+        <div class="today-tasks-mobile">
+            <h3><span class="mobile-task-header">Today's Tasks</span></h3>
+            <div class="today-tasks-header">
+                <div class="delete-all" (click)="deleteAllTasks()">Delete All</div>
+                <div class="current-date">{{currentDate | date : 'EEEE, d MMMM yyyy'}}</div>
+            </div>
+        </div>
+        <div class="task-status-component">
+            <app-task-status [isDeleteClicked]="isDeleteClicked"></app-task-status>
+        </div>
+    </div>
+</div>
+
+<div class="delete-confirm-popup" *ngIf="isConfirmPopup">
+    <h2>Are you sure you want to delete</h2><br>
+    <div class="popup-buttons">
+        <button type="button" class="cancel-button" (click)="cancelDelete()">Cancel</button>
+        <button type="button" class="confirm-button" (click)="deleteConfirm()">Confirm</button>
+    </div>
+</div>
+
+<div *ngIf="isLoading" class="spinner-container">
+    <mat-spinner></mat-spinner>
+</div>

@@ -1,0 +1,14 @@
+<div class="main-container" [ngClass]="{'background-blur':isAddTaskClicked}">
+    <div class="left-container">
+        <app-sidebar (clickedMessage)="addTask($event)"></app-sidebar>
+    </div>
+    <div class="right-container">
+        <app-header (clickedMessage)="mobileAddTask($event)"></app-header>   
+        <router-outlet></router-outlet>
+    </div>
+</div>
+
+<div class="add-task-container" *ngIf="isAddTaskClicked">
+    <app-addtask (isClicked)="CancelClicked($event)"></app-addtask>
+</div>
+

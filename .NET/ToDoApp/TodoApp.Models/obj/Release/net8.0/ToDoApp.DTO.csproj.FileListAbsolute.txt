@@ -1,0 +1,12 @@
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\bin\Release\net8.0\ToDoApp.DTO.deps.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\bin\Release\net8.0\ToDoApp.DTO.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\bin\Release\net8.0\ToDoApp.DTO.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.AssemblyInfoInputs.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.AssemblyInfo.cs
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.sourcelink.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\refint\ToDoApp.DTO.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ToDoApp.DTO.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\TodoApp.Models\obj\Release\net8.0\ref\ToDoApp.DTO.dll

@@ -1,0 +1,29 @@
+<div class="main-header">
+    <div class="header">
+        <div><h4>{{headerText}}</h4></div>
+        <div>
+            <button type="button" class="signout-button" routerLink="/login" (click)="signOut()">
+                Sign out 
+            <img src="assets/Vector.png"></button>
+        </div>
+    </div>
+    
+    <div class="mobile-view">
+        <div class="mobile-header">
+            <div class="sidebar-header-container">
+                <h2 class="sidebar-header">To-Do App</h2>
+            </div>
+            <div class="mobile-right-header">
+                <div (click)="addTask()" class="add-task-button">
+                    <app-addtask-button></app-addtask-button>
+                </div>
+                <div class="signout-button-component">
+                    <button type="button" class="signout-button mobile-signout" routerLink="/login" (click)="signOut()">
+                        Sign out 
+                    <img src="assets/Vector.png"></button>
+                </div>
+            </div>
+        </div>
+        <app-dropdown></app-dropdown>
+    </div>
+</div>

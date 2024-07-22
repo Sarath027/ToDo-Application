@@ -1,0 +1,66 @@
+.sidebar{
+    width: 220px;
+    height: 100vh;
+    font-family: Lexend;
+}
+
+.sidebar-header{
+    text-align: center;
+    color: #BA5112;
+    font-size: 4.5vh;
+    margin-top: 9%;
+}
+
+.sidebar-addtask-button{
+    margin-top: 30%;
+}
+
+.add-task{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    margin-top: 30%;
+    box-shadow: 4px 4px 16px 0px #0000001A;
+    padding: 4%;
+    width: 60%;
+    margin-left: 15%;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-bottom: 30%;
+}
+
+.ellipse{
+    height: 20px;
+}
+
+.add-icon{
+    height: 10px;
+    margin-left: -50%;
+    margin-bottom: 18%;
+}
+
+.sidebar-items{
+    text-align: center;
+}
+
+.sidebar-item{
+    margin-top: 15%;
+    padding: 2%;
+    cursor: pointer;
+}
+
+.component-background-color{
+    background-color: #EDB046;
+}
+
+@media screen and (max-width:1024px) {
+    .sidebar-header{
+        font-size: 2.5vw !important;
+    }    
+}
+
+@media screen and (max-width : 360px) {
+    .sidebar{
+        display: none;
+    }
+}

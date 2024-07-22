@@ -1,0 +1,53 @@
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.deps.json
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfoInputs.cache
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfo.cs
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\refint\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ref\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Repository.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Repository.pdb
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.AssemblyReference.cache
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp..2D6B7A2D.Up2Date
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\TodoApp.DTO.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\TodoApp.DTO.pdb
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.deps.json
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.DTO.dll
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Repository.dll
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.DTO.pdb
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Repository.pdb
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.AssemblyReference.cache
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfoInputs.cache
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfo.cs
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.sourcelink.json
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp..2D6B7A2D.Up2Date
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\refint\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\sarathchandra.b\Downloads\ToDo Application\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ref\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.deps.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.DTO.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Repository.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.DTO.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Repository.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.AssemblyReference.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfoInputs.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfo.cs
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.sourcelink.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp..2D6B7A2D.Up2Date
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\refint\ToDoApp.Services.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ref\ToDoApp.Services.dll

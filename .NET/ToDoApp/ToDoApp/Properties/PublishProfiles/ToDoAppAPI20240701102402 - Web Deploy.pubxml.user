@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeh00oJSA0EC6gcMNi5wNWgAAAAACAAAAAAADZgAAwAAAABAAAAC9+w7drYCoj4o7bwqTdMBRAAAAAASAAACgAAAAEAAAADx4aRVnc59AiWmgH1/M5T6AAAAAtS7H+l1UyC2ucmEClxGecXd/nJlLj5OvIzHF3l8N1B+jrB7iQgJco+nMuXmF8gwYUXZriADT9jZSGtzvxdnPWxjV8N0y5+DVgZnDvvQwFfe9oj/tG7cIMz6srEIF0wY6to4rwBxKU81cQfwzMWIM2BmKB2mABl2AyB+Tdh+5J5gUAAAAaz5ImRHrhYiQxMLo9lsM0vzNiTk=</EncryptedPassword>
+    <History>True|2024-07-18T05:55:45.4076313Z;False|2024-07-18T11:21:32.6059765+05:30;True|2024-07-18T11:13:33.3813695+05:30;True|2024-07-18T11:04:48.3566078+05:30;True|2024-07-01T14:19:50.9569967+05:30;True|2024-07-01T11:56:56.2743459+05:30;True|2024-07-01T11:13:37.8961041+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="database">
+      <Value>Data Source=todoapp-apidbserver.database.windows.net,1433%3bInitial Catalog=ToDoApp.API_db%3bUser ID=Sarath%3bPassword=Irreplaceable%401524</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ToDoApp.Repository.ToDoAppContext">
+      <Value>Data Source=todoapp-apidbserver.database.windows.net,1433%3bInitial Catalog=ToDoApp.API_db%3bUser ID=Sarath%3bPassword=Irreplaceable%401524</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

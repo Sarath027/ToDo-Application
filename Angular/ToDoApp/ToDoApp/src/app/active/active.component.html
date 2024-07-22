@@ -1,0 +1,55 @@
+<div class="active">
+    <div class="active-tasks">
+        <div class="header">Today's {{headerText}} Tasks</div>
+        <div class="today-date">{{currentDate | date : 'EEEE, d MMMM yyyy'}}</div>
+    </div>
+    <div class="tasks-list">
+        <div class="no-tasks-left" *ngIf="!isTaskAvaliable"><h2>No tasks available at the moment</h2></div>
+        <div *ngFor="let task of tasks; let i = index" class="task"
+        [ngClass]="{'task-completed':isCompleted}" (click)="displayTaskDescription(i)">
+            <img src="{{checkboxImage}}" class="task-checkbox">
+            <span class="task-title">{{task.title}}</span>
+            <div class="task-description-container">
+                <div class="task-description" *ngIf="isTaskSelected[i]" [ngClass]="{'task-description-completed':isCompleted}">
+                    <span class="description-title">{{task.title}}<br><span class="added-time" [ngClass]="{'added-time-completed':isCompleted}">Added {{addedTime}} {{taskDescriptionContent}} ago</span></span>
+                    <h6 class="description-header">Description</h6>
+                    <p class="task-description-content">{{task.description}}</p><br>
+                    <div class="task-description-images">
+                        <img src="assets/checkbox.png" class="task-details-icon" (click)="completeTask(task.taskId)"
+                        *ngIf="!isCompleted">
+                        <img src="assets/checkbox-selected.png" class="task-details-icon" 
+                        (click)="completeTask(task.taskId)" *ngIf="isCompleted">
+                        <div class="edit-delete-icons">
+                            <img src="assets/edit.png" class="task-details-icon" *ngIf="currentComponentActive"
+                            (click)="editTask(task.taskId,task.title,task.description)">
+                            <img src="assets/delete.png" class="task-details-icon" (click)="deleteTask(task.taskId)">
+                            <img src="assets/delete-completed.png" class="task-details-icon" 
+                            (click)="deleteTask(task.taskId)" *ngIf="isCompleted">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="confirm-popup" *ngIf="isDeleteConfirmPopup">
+    <h2 class="popup-header">Are you sure want to delete</h2><br>
+    <div class="popup-buttons">
+        <button type="button" class="cancel-button" (click)="cancelDelete()">Cancel</button>
+        <button type="button" class="confirm-button" (click)="deleteConfirm()">Confirm</button>
+    </div>
+</div>
+
+<div class="confirm-popup" *ngIf="isStatusTogglePopup">
+    <h2 *ngIf="!isCompleted">You are about to complete the task</h2><br>
+    <h2 *ngIf="isCompleted">You are about to make the task active</h2><br>
+    <div class="popup-buttons">
+        <button type="button" class="cancel-button" (click)="cancelToggle()">Cancel</button>
+        <button type="button" class="confirm-button" (click)="toggleConfirm()">Confirm</button>
+    </div>
+</div>
+
+<div *ngIf="isLoading" class="spinner-container">
+    <mat-spinner></mat-spinner>
+</div>

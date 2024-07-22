@@ -1,0 +1,11 @@
+<div class="sidebar">
+    <h2 class="sidebar-header">To-Do App</h2>
+    <div (click)="addTask()" class="sidebar-addtask-button">
+        <app-addtask-button></app-addtask-button>
+    </div>
+    <div class="sidebar-items">
+        <div class="sidebar-item" routerLink="/home/dashboard" routerLinkActive="component-background-color">Dashboard</div>
+        <div class="sidebar-item" routerLink="/home/active" routerLinkActive="component-background-color">Active</div>
+        <div class="sidebar-item" routerLink="/home/completed" routerLinkActive="component-background-color">Completed</div>
+    </div>
+</div>

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2020601-308B-4266-8AA5-1FEBFC09DF6C}|ToDoApp.Repository\\ToDoApp.Repository.csproj|C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\todoapp.repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2020601-308B-4266-8AA5-1FEBFC09DF6C}|ToDoApp.Repository\\ToDoApp.Repository.csproj|solutionrelative:todoapp.repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2020601-308B-4266-8AA5-1FEBFC09DF6C}|ToDoApp.Repository\\ToDoApp.Repository.csproj|c:\\users\\sarathchandra.b\\downloads\\full-web-app-sarath504\\.net\\todoapp\\todoapp.repository\\interfaces\\todorepositoryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2020601-308B-4266-8AA5-1FEBFC09DF6C}|ToDoApp.Repository\\ToDoApp.Repository.csproj|solutionrelative:todoapp.repository\\interfaces\\todorepositoryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690C44FA-20AA-411A-95AA-D31E3BA0834C}|ToDoApp\\ToDoApp.API.csproj|c:\\users\\sarathchandra.b\\downloads\\full-web-app-sarath504\\.net\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C44FA-20AA-411A-95AA-D31E3BA0834C}|ToDoApp\\ToDoApp.API.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690C44FA-20AA-411A-95AA-D31E3BA0834C}|ToDoApp\\ToDoApp.API.csproj|C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{690C44FA-20AA-411A-95AA-D31E3BA0834C}|ToDoApp\\ToDoApp.API.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoRepositoryInterface.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\Interfaces\\TodoRepositoryInterface.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Repository\\Interfaces\\TodoRepositoryInterface.cs",
+              "ToolTip": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\Interfaces\\TodoRepositoryInterface.cs",
+              "RelativeToolTip": "ToDoApp.Repository\\Interfaces\\TodoRepositoryInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:27:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeToolTip": "ToDoApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T05:36:21.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeToolTip": "ToDoApp\\Program.cs",
+              "ViewState": "AQIAACYAAAAAMjMzM7MRwDkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:48:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\sarathchandra.b\\Downloads\\full-web-app-sarath504\\.NET\\ToDoApp\\ToDoApp.Repository\\TaskRepository.cs",
+              "RelativeToolTip": "ToDoApp.Repository\\TaskRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:30:24.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

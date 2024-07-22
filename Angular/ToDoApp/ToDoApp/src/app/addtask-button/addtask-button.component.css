@@ -1,0 +1,48 @@
+.add-task{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    box-shadow: 4px 4px 16px 0px #0000001A;
+    padding: 5%;
+    width: 140px;
+    margin-left: 15%;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-bottom: 30%;
+}
+
+.ellipse{
+    height: 20px;
+}
+
+.add-icon{
+    height: 10px;
+    margin-left: -50%;
+    margin-bottom: 18%;
+}
+
+@media screen and (max-width:450px) {
+
+    .add-task{
+        padding: 2px !important;
+        width: 60px;
+        margin-top: -6%;
+        margin-left: 80%;
+    }
+
+    .add-task-content{
+        margin-top: -5%;
+    }
+
+    .button-content{
+        font-size: 8px;
+    } 
+    
+    .ellipse{
+        height: 10px;
+    }
+
+    .add-icon{
+        height: 5px;
+    }
+}

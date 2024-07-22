@@ -1,0 +1,105 @@
+.tasks-status{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    gap: 10px;
+}
+
+.completed-tasks{
+    width: 140%;
+    height: 100%;
+    background-color: #BA5112;
+    border-radius: 7px;
+}
+
+.completed-tasks div,.active-tasks div{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 2%;
+}
+
+.percent{
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 20px !important;
+    margin-left: 10%;
+}
+
+.active-tasks{
+    width: 140%;
+    background-color: #EDB046;
+    height: 100%;
+    border-radius: 7px;
+}
+
+.stat-icon{
+    height: 25px;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+@media screen and (max-width : 900px) {
+
+    .task-status-container{
+        margin-left: -7%;
+    }
+
+    .tasks-status{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    .completed-tasks, .active-tasks{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 47%;
+        height: 110px;
+    }
+
+    .completed-tasks div,.active-tasks div{
+        text-align: left;
+    }
+
+    .completed-tasks img, .active-tasks img{
+        margin-left: 20%;
+        margin-top: 0%;
+    }
+
+    .percent{
+        text-align: left;
+    }
+
+    .content{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:450px) {
+
+    .completed-tasks, .active-tasks{
+        display: flex;
+        width: 87%;
+        height: 60px;
+        gap: 5%;
+    }
+
+    .completed-tasks img, .active-tasks img{
+        margin-left: 5%;
+        margin-top: 0%;
+    }
+
+    .percent{
+        font-size: 13px !important;
+    }
+
+    .completed-tasks div, .active-tasks div{
+        font-size: 10px;
+    }
+
+    .tasks-status{
+        width: 86.5%;
+    }
+}

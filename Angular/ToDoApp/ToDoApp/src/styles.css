@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+.spinner-container{
+    position: fixed;
+    top: 40%;
+    left: 45%;
+}
+
+@media screen and (max-width:900px) {
+    .spinner-container{
+        left: 40%;
+    }   
+}

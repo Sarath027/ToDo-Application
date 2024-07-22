@@ -1,0 +1,151 @@
+.main-container{
+    background-image: url(/assets/signup-background.png);
+    background-size: cover;
+    height: 84vh;
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+    font-family: Lexend;
+    margin: 0%;
+
+    .error-message{
+        color: red;
+        font-size: 11px;
+    }
+    
+    .error-image{
+        margin-left: 11%;
+        height: 10px;
+    }
+
+    .validation-message{
+       margin-top: 1%;
+    }
+
+    .signup{
+        height: 500px;
+        width: 650px;
+        border-radius: 20px;
+        font-family: Lexend;
+    }
+
+    .todo-header{
+        font-family: Lexend;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 75px;
+        text-align: center;
+    }
+    
+    .header-content{
+        font-family: Lexend;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+        text-align: center;
+        margin-top: -5%;
+    }
+    
+    .input-field{
+        font-family: Lexend;
+        margin-left: 10%;
+        width: 75%;
+        padding: 3%;
+        border-radius: 7px;
+        border: none;
+        margin-top: 30px;
+    }
+    
+    .hide-password-image{
+        width: 20px;
+        position: relative;
+        right: 10%;
+        margin-bottom: -1%;
+        cursor: pointer;
+    }
+    
+    .signup-button{
+        margin-left: 40%;
+        height: 40px;
+        width: 20%;
+        border: none;
+        border-radius: 7px;
+        cursor: pointer;
+        margin-top: 30px;
+    }
+
+    .account-exist{
+        font-family: Lexend;
+        text-align: center;
+    }
+    
+    .account-exist span{
+        cursor: pointer;
+    }
+    
+}
+
+
+.signup-container{
+    .signup-color{
+        box-shadow: 4px 4px 16px 0px #0000001A;
+        background-color: #EDB046;
+        color: white;
+    }
+
+    .signup-button-color{
+        background: #BA5112;
+        color: white;
+    }
+
+    .account-exists-color span{
+        color: #BA5112;
+    }
+}
+
+.login-container{
+    
+    .signup-color{
+        box-shadow: 4px 4px 16px 0px #0000001A;
+
+        background-color: white;
+        color: #BA5112;
+    }
+
+    .input-field{
+        box-shadow: 4px 4px 16px 0px #0000001A;
+
+    }
+
+    .header-content-color{
+        color: black;
+    }
+
+    .signup-button-color{
+        background: #EDB046;
+        color: black;
+    }
+
+    .account-exist{
+        color: black;
+    }
+
+    .account-exists-color span{
+        color: #BA5112;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .hide-password-image{
+        left: 75%;
+    }
+
+    .hide-password-image{
+        display: none;
+    }
+
+    .signup-button{
+        font-size: 11px;
+    }
+}
+

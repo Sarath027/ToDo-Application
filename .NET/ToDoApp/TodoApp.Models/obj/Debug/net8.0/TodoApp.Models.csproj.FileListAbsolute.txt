@@ -1,0 +1,11 @@
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\bin\Debug\net8.0\TodoApp.Models.deps.json
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\bin\Debug\net8.0\TodoApp.Models.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\bin\Debug\net8.0\TodoApp.Models.pdb
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\TodoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\TodoApp.Models.AssemblyInfoInputs.cache
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\TodoApp.Models.AssemblyInfo.cs
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\TodoApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\TodoApp.Models.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\refint\TodoApp.Models.dll
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\TodoApp.Models.pdb
+C:\Users\sarathchandra.b\OneDrive - Technovert\Sarath\ASP.Net\ToDoApp\TodoApp.Models\obj\Debug\net8.0\ref\TodoApp.Models.dll

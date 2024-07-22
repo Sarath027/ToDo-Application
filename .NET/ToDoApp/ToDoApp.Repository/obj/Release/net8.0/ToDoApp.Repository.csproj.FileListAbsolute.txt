@@ -1,0 +1,15 @@
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\bin\Release\net8.0\ToDoApp.Repository.deps.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\bin\Release\net8.0\ToDoApp.Repository.runtimeconfig.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\bin\Release\net8.0\ToDoApp.Repository.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\bin\Release\net8.0\ToDoApp.Repository.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.csproj.AssemblyReference.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.AssemblyInfoInputs.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.AssemblyInfo.cs
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.sourcelink.json
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\refint\ToDoApp.Repository.dll
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.pdb
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ToDoApp.Repository.genruntimeconfig.cache
+C:\Users\sarathchandra.b\Downloads\full-web-app-sarath504\.NET\ToDoApp\ToDoApp.Repository\obj\Release\net8.0\ref\ToDoApp.Repository.dll

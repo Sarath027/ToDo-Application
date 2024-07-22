@@ -1,0 +1,35 @@
+<div class="add-task-container">
+    <form [formGroup]="taskDetails" (ngSubmit)="addTask()">
+        <div class="title">
+            <input type="text" placeholder="Add title" class="title-input-field" formControlName="title">
+            <div *ngIf="(taskDetails.controls.title.touched || 
+                            taskDetails.controls.title.dirty || isFormSubmitted) && 
+                            taskDetails.controls.title.invalid" class="error-message">
+                <div *ngIf="taskDetails.controls.title.value=='' " class="validation-message">
+                    <img src="assets/required.png" class="error-image">
+                    This field is required
+                </div>
+            </div>
+        </div>
+        <div class="description">
+            <textarea type="text" placeholder="Add description" class="description-input-field" rows="5"
+            formControlName="description"></textarea>
+            <div *ngIf="(taskDetails.controls.description.touched || 
+                            taskDetails.controls.description.dirty || isFormSubmitted) && 
+                            taskDetails.controls.description.invalid" class="error-message">
+                <div *ngIf="taskDetails.controls.description.value=='' " class="validation-message">
+                    <img src="assets/required.png" class="error-image">
+                    This field is required
+                </div>
+            </div>
+        </div>
+        <div class="add-buttons">
+            <button type="button" class="cancel-button" (click)="cancelAddTask()">Cancel</button>
+            <button type="submit" class="submit-button" >Save</button>
+        </div>
+    </form>
+</div>
+
+<div *ngIf="isLoading" class="spinner-container">
+    <mat-spinner></mat-spinner>
+</div>

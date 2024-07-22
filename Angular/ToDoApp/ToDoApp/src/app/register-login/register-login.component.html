@@ -1,0 +1,46 @@
+
+<div [ngClass]="{'signup-container' : signupPage, 'login-container' : loginPage}" class="main-container">
+    <div class="signup signup-color">
+        <h1 class="todo-header todo-header-color">To-Do App</h1>
+        <p class="header-content header-content-color">Start organizing your life day by day</p>
+        <form [formGroup]="userDetails" (ngSubmit)="onSubmit()">
+            <input type="text" placeholder="Username" class="input-field" formControlName = 'username'>
+            <div *ngIf="(userDetails.controls.username.touched || 
+                            userDetails.controls.username.dirty || isFormSubmitted) && 
+                            userDetails.controls.username.invalid" class="error-message">
+                <div *ngIf="userDetails.controls.username.value=='' " class="validation-message">
+                    <img src="assets/required.png" class="error-image">
+                    This field is required
+                </div>
+            </div>
+            <div>
+                <input type="password" placeholder="Password" class="input-field password" formControlName = 'password'>
+                <img src="assets/hidden.png" class="hide-password-image" 
+                (click)="passwordToggle()" *ngIf="passwordHide">
+                <img src="assets/view.png" class="hide-password-image" 
+                (click)="passwordToggle()" *ngIf="!passwordHide">
+
+                <div *ngIf="(userDetails.controls.password.touched || 
+                            userDetails.controls.password.dirty || isFormSubmitted) && 
+                            userDetails.controls.password.invalid" class="error-message">
+                    <div *ngIf="userDetails.controls.password.value=='' " class="validation-message">
+                        <img src="assets/required.png" class="error-image">
+                        This field is required
+                    </div>
+                    <div *ngIf="userDetails.controls.password.errors?.['minlength'] && signupPage"
+                     class="validation-message">
+                        <img src="assets/required.png" class="error-image">
+                        Password must be greater than 7 characters
+                    </div>
+                </div>
+            </div> 
+            <button type="submit" class="signup-button signup-button-color">{{buttonContent}}</button>
+        <p class="account-exist account-exists-color">{{footerContent}} <span (click)="toggleLoginSignup()">here</span></p>
+    </form>
+    </div>
+    <div *ngIf="isLoading" class="spinner-container">
+        <mat-spinner></mat-spinner>
+    </div>
+</div>
+
+
